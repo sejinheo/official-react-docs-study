@@ -1,10 +1,9 @@
-import Gallery from "./components/Gallery";
-import Profile from "./components/Profile";
+import TodoList from "./components/TodoList";
 
 function App() {
   return (
     <div>
-      <Gallery />
+      <TodoList />
     </div>
   );
 }
